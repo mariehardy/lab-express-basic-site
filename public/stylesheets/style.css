@@ -1,0 +1,35 @@
+body {
+    background: rgb(255,245,225);
+background: linear-gradient(42deg, rgba(255,245,225,1) 0%, rgba(245,222,179,1) 55%, rgba(255,185,146,1) 100%);
+    color: teal;
+    /* color: darkslategray; */
+}
+
+header p {
+    margin-left: 18px;
+    padding-top: 18px;
+
+}
+
+main {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+h2 {
+    font-variant: small-caps;
+    font-style: italic;
+    /* color: wheat; */
+    color: black;
+    /* background-color: teal;  */
+    background: rgb(34,193,195);
+background: linear-gradient(337deg, rgba(34,193,195,1) 0%, rgba(138,45,253,0.2978326612903226) 100%);
+}
+
+img {
+    margin-bottom: 40px;
+}
+
+.convent {
+    margin: 20px;
+}
